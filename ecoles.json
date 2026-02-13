@@ -1,0 +1,102 @@
+[
+    {
+        "ecole": "ISALSH",
+        "filiere": "Communication écotourisme",
+        "bac_requis": ["toutes"]
+    },
+    {
+        "ecole": "ISALSH",
+        "filiere": "Communication territoriale",
+        "bac_requis": ["toutes"]
+    },
+    {
+        "ecole": "ISST",
+        "filiere": "Sciences et techniques de l'eau",
+        "bac_requis": ["D", "C", "OSE", "Technique agricole"]
+    },
+    {
+        "ecole": "ISST",
+        "filiere": "Gestion et valorisation des ressources naturelles",
+        "bac_requis": ["D", "C", "OSE", "A2", "Technique"]
+    },
+    {
+        "ecole": "ISST",
+        "filiere": "Gestion de l'environnement",
+        "bac_requis": ["D", "C", "OSE", "A2", "Technique"]
+    },
+    {
+        "ecole": "ISPSI",
+        "filiere": "Sage femme",
+        "bac_requis": ["D", "C", "S", "A1"]
+    },
+    {
+        "ecole": "ISPSI",
+        "filiere": "Infirmier généraliste",
+        "bac_requis": ["D", "C", "S", "A1"]
+    },
+    {
+        "ecole": "ESEDG",
+        "filiere": "Economie",
+        "bac_requis": ["toutes"]
+    },
+    {
+        "ecole": "ESEDG",
+        "filiere": "Droit",
+        "bac_requis": ["toutes"]
+    },
+    {
+        "ecole": "ESEDG",
+        "filiere": "Gestion",
+        "bac_requis": ["toutes"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Agro-écologie",
+        "bac_requis": ["D", "C", "S", "Technique agricole"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Bâtiments et travaux publics",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Élevage",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Énergie renouvelable",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Informatique",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Mécanisation agricole",
+        "bac_requis": ["D", "C", "S", "Technique agricole", "Technique industriel"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Mines et environnement",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Sciences et techniques des matériaux",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Télécommunications",
+        "bac_requis": ["D", "C", "S", "Technique"]
+    },
+    {
+        "ecole": "ESII",
+        "filiere": "Transformation agroalimentaire",
+        "bac_requis": ["D", "C", "S", "Technique agricole", "Technique industriel"]
+    }
+]
